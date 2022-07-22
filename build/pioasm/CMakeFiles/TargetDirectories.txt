@@ -1,0 +1,3 @@
+D:/Pico2022/picoGame/build/pioasm/CMakeFiles/pioasm.dir
+D:/Pico2022/picoGame/build/pioasm/CMakeFiles/edit_cache.dir
+D:/Pico2022/picoGame/build/pioasm/CMakeFiles/rebuild_cache.dir
